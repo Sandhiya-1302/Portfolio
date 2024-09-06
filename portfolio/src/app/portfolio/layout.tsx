@@ -2,8 +2,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'aos/dist/aos.css';
 
-
-
 export default function RootLayout({
     children, about, projects, details
   }: Readonly<{
